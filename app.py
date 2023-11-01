@@ -15,6 +15,7 @@ def interpretar_dados_dengue(caminho_json, modelo="t5-small", max_length=100):
     anos = data["ano"]
     meses = data["mes"]
     casos = data["casos"]
+    
 
     # Encontre o mês com a maior variação nos casos
     maior_variacao_mes = meses[casos.index(max(casos))]

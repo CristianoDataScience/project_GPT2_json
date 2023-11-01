@@ -1,0 +1,13 @@
+{
+    "metadados": {
+    "titulo": "Número de usuários ativos mensais do WhatsApp no mundo de abril de 2013 a março de 2020 (em milhões)",
+    
+    "temporalidade": "Variavel"
+    },
+    "eixo_x": ["Mar '20", "Dec '17", "Jul '17", "Jan '17", "Feb '16", "Sep '15", "Apr '15", "Jan '15", "Aug '14", "Apr '14", "Feb '14", "Jan '14", "Dec '13", "Oct '13", "Aug '13", "Jun '13",
+    "Apr '13"],
+    "series": {
+    "Número de usuários ativos mensais em milhões": ["2000", "1500", "1300", "1200",
+    "1000", "900", "800", "700", "600", "500", "465", "430", "400", "350", "300", "250", "200"]
+    }
+}
